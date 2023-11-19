@@ -33,7 +33,7 @@ Bu basit Python aracı, sistemdeki RAM, CPU kullanımını ve çalışan süreç
 
 ## Ekran Görüntüsü
 
-![Task Manager UI](screenshots/task_manager_ui.png)
+![Task Manager UI](image.png)
 
 ## Geliştirme
 
